@@ -1,0 +1,5 @@
+{
+  "name": "Vercel-style Design System",
+  "description": "A comprehensive component library and design template inspired by the clean, minimalist, and modern aesthetic of vercel.com. It includes multiple versions of common web elements, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
