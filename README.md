@@ -4,7 +4,7 @@ A modern, minimalist design system and UI component library inspired by Vercel's
 
 **Created by [LEXRESO](https://lexreso.com)**
 
-**🚀 [Live Demo](http://lexresodesign.itbizlink.com)**
+**🚀 [Live Demo](https://lexresodesign.itbizlink.com)**
 
 ---
 
