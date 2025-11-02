@@ -4,6 +4,8 @@ A modern, minimalist design system and UI component library inspired by Vercel's
 
 **Created by [LEXRESO](https://lexreso.com)**
 
+**🚀 [Live Demo](http://lexresodesign.itbizlink.com)**
+
 ---
 
 ## 🎨 Overview
@@ -44,7 +46,7 @@ Perfect for:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/lexreso-design-ui-black-white.git
+git clone https://github.com/antonuiq/lexreso-design-ui-black-white.git
 cd lexreso-design-ui-black-white
 ```
 
